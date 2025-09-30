@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SmartStudentQueryAPI.props" />
+</Project>
